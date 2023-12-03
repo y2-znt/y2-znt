@@ -1,4 +1,5 @@
 # Hi there, I'm @YD-SavvyDev! 👋
+![danny-phantom](https://github.com/YD-SavvyDev/YD-SavvyDev/assets/152095147/2afb073b-e3c3-4de6-8986-77f1f81b55ae)
 
 ## Recent Projects 🛠️
 
