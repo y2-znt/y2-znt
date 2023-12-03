@@ -53,12 +53,12 @@
 
 ## Education & Experience 💼
 
-- Current IT Student in second-year student in higher education.
+- Current IT Student in higher education.
 - Internship/Work Experience at [Kub Systèmes](https://www.kub-systemes.fr/) <img src="https://www.kubsystemes.fr/wp-content/uploads/2016/12/favicon.png" alt="favicon" width="15" height="15">
 
 
   
 ## Connect with Me 
-Feel free to reach out for any inquiries or collaboration opportunities.
+Feel free to reach out for any inquiries or collaboration opportunities!
 </br> </br>
 ![danny-phantom](https://github.com/YD-SavvyDev/YD-SavvyDev/assets/152095147/2afb073b-e3c3-4de6-8986-77f1f81b55ae) 
