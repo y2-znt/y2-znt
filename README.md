@@ -1,6 +1,6 @@
 # Hi there, I'm @YD-SavvyDev! 👋
 
-## About Me ℹ️
+## About Me 
 
 I'm an enthusiastic IT student passionate about leveraging technology to build innovative solutions. My interests lie in web development, software engineering, and exploring new technologies.
 
