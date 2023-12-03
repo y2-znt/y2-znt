@@ -1,5 +1,10 @@
 # Hi there, I'm @YD-SavvyDev! 👋
 
+## Recent Projects 🛠️
+
+- [WeatherAPI-App ⛅](https://github.com/YD-SavvyDev/WeatherAPI-App)
+- [Password Monkey 🐵](https://github.com/YD-SavvyDev/Password-Monkey)
+
 ## Skills 🌟
 
 <h4 align="left">Programming Languages:</h4>
@@ -44,11 +49,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
     </a>
 </p>
-
-## Recent Projects 🛠️
-
-- [WeatherAPI-App ⛅](https://github.com/YD-SavvyDev/WeatherAPI-App)
-- [Password Monkey 🐵](https://github.com/YD-SavvyDev/Password-Monkey)
 
 ## Education & Experience 📚💼
 
