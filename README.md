@@ -45,7 +45,7 @@
 </div>
 
 
-## Education & Experience 📚💼
+## Education & Experience 💼
 
 - Current IT Student in second-year student in higher education.
 - Internship/Work Experience at [Kub Systèmes](https://www.kub-systemes.fr/)
