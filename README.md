@@ -2,8 +2,8 @@
 
 ## Recent Projects 🛠️
 
+- [TermiArt 🎨](https://github.com/YD-SavvyDev/TermiArt/blob/main/README.md)
 - [WeatherAPI-App ⛅](https://github.com/YD-SavvyDev/WeatherAPI-App)
-- [Password Monkey 🐵](https://github.com/YD-SavvyDev/Password-Monkey)
 
 ## Skills 🌟
 
