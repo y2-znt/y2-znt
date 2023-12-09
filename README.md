@@ -1,5 +1,6 @@
 # Hi there, I'm @YD-SavvyDev! 👋
-![image](https://github.com/YD-SavvyDev/YD-SavvyDev/assets/152095147/3c62e5ff-5fdf-4f79-9eaa-89f5308a517f)
+![hellojs](https://github.com/YD-SavvyDev/YD-SavvyDev/assets/152095147/f402e9ea-fca0-4b1a-9283-22dd23eb0373)
+
 
 ## Recent Projects 🛠️
 
