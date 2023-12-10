@@ -4,8 +4,8 @@
 
 ## Recent Projects 🛠️
 
-- [TermiArt 🎨](https://github.com/YD-SavvyDev/TermiArt/blob/main/README.md)
-- [WeatherAPI-App ⛅](https://github.com/YD-SavvyDev/WeatherAPI-App)
+- [PHP Form with Database 💻](https://github.com/YD-SavvyDev/php-sql-data-form)
+- [Chicken Cuisine 🍗](https://github.com/YD-SavvyDev/Chicken-web-page)
 
 ## Skills 🌟
 
