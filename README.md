@@ -1,4 +1,4 @@
-# Hi there, I'm @Yoni-Deserbaix 👋
+# Hi there, I'm Yoni 👋
 ![hellojs](https://github.com/YD-SavvyDev/YD-SavvyDev/assets/152095147/f402e9ea-fca0-4b1a-9283-22dd23eb0373)
 
 
