@@ -62,4 +62,5 @@
 ## Connect with Me 
 Feel free to reach out for any inquiries or collaboration opportunities!
 
-
+- 📧 Email: yonideserbaix@gmail.com
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoni-deserbaix/)
