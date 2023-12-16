@@ -1,6 +1,13 @@
 # Hi there, I'm Yoni 👋
-![hellojs](https://github.com/YD-SavvyDev/YD-SavvyDev/assets/152095147/f402e9ea-fca0-4b1a-9283-22dd23eb0373)
 
+## About Me
+I'm a current IT student in higher education, passionate about programming and web development. I'm enthusiastic about learning new technologies and creating innovative solutions.
+
+## Connect with Me 
+Feel free to reach out for any inquiries or collaboration opportunities!
+
+- 📧 Email: yonideserbaix@gmail.com
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoni-deserbaix/)
 
 ## Recent Projects 🛠️
 
@@ -57,10 +64,11 @@
 - Current IT Student in higher education.
 - Internship/Work Experience at [Kub Systèmes](https://www.kub-systemes.fr/) <img src="https://www.kubsystemes.fr/wp-content/uploads/2016/12/favicon.png" alt="favicon" width="15" height="15">
 
+## Languages 🌐
 
-  
-## Connect with Me 
-Feel free to reach out for any inquiries or collaboration opportunities!
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/800px-Flag_of_France.png"  width="45" height="35"/>
+    <img width="12" />
 
-- 📧 Email: yonideserbaix@gmail.com
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoni-deserbaix/)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png"  width="45" height="35"/>
+</div>
