@@ -1,11 +1,14 @@
 # Hi there, I'm Yoni 👋
 
 ## About Me
-I'm a current IT student in higher education, passionate about programming and web development. I'm enthusiastic about learning new technologies and creating innovative solutions.
+I'm an enthusiastic IT student passionate about leveraging technology to build innovative solutions. My interests lie in web development, software engineering, and exploring new technologies.
 
-## Connect with Me 
-Feel free to reach out for any inquiries or collaboration opportunities!
+- 🌱 I’m currently learning and expanding my skills in JavaScript (both Front-end and Back-end).
+- 💼 I'm open to internship opportunities to apply and enhance my skills in a professional environment.
+- 👀 I’m interested in collaborating on open-source projects and building exciting web applications.
+- 🎓 I'm a second-year IT student in higher education.
 
+## Contact me
 - 📧 Email: yonideserbaix@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoni-deserbaix/)
 
