@@ -71,7 +71,7 @@
 - Current IT Student in higher education.
 - Internship/Work Experience at [Kub Systèmes](https://www.kub-systemes.fr/) <img src="https://www.kubsystemes.fr/wp-content/uploads/2016/12/favicon.png" alt="favicon" width="15" height="15">
 
-## Languages 🌐
+## Languages 
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/800px-Flag_of_France.png"  width="45" height="35"/>
