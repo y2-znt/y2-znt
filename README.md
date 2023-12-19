@@ -15,8 +15,8 @@
 
 ## Recent Projects 🛠️
 
-- [PHP Form with Database 💻](https://github.com/YD-SavvyDev/php-sql-data-form)
-- [Chicken Cuisine 🍗](https://github.com/YD-SavvyDev/Chicken-web-page)
+- [World Flags Encyclopedia 🌐](https://github.com/Yoni-Deserbaix/React-World-App)
+- [PHP Form with Database 💻](https://github.com/Yoni-Deserbaix/php-sql-data-form)
 
 ## Skills 🌟
 
