@@ -15,7 +15,7 @@
 
 ## Recent Projects 🛠️
 
-- [World Flags Encyclopedia 🌐](https://github.com/Yoni-Deserbaix/React-World-App)
+- [World Flags Encyclopedia 🌐](https://github.com/Yoni-Deserbaix/World-Flags-Encyclopedia)
 - [PHP Form with Database 💻](https://github.com/Yoni-Deserbaix/php-sql-data-form)
 
 ## Skills 🌟
