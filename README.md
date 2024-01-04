@@ -15,7 +15,7 @@
 
 ## Recent Projects 🛠️
 
-- [Shooting Game JS 🧟](https://yoni-deserbaix.github.io/Shooting-Game-JS/)
+- [Shooting Game JS 🧟](https://github.com/Yoni-Deserbaix/Shooting-Game-JS)
 - [CineQuik 🎬🍿](https://github.com/Yoni-Deserbaix/CineQuik)
 - [World Flags Encyclopedia 🌐](https://github.com/Yoni-Deserbaix/World-Flags-Encyclopedia)
 
