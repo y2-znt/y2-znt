@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;javascript+learning;code+for+life">
 </p>I'm an enthusiastic IT student passionate about leveraging technology to build innovative solutions. My interests lie in web development, software engineering, and exploring new technologies.
 
-- 🌱 I’m currently learning and expanding my skills in JavaScript (both Front-end and Back-end).
+- 🌱 I’m currently learning and expanding my skills in React, Next.JS and TypeScript.
 - 💼 I'm open to internship opportunities to apply and enhance my skills in a professional environment.
 - 👀 I’m interested in collaborating on open-source projects and building exciting web applications.
 - 🎓 I'm a second-year IT student in higher education.
