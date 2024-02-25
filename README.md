@@ -9,11 +9,11 @@
 <p align="center">
 </p>I'm an enthusiastic IT student passionate about leveraging technology to build innovative solutions. My interests lie in web development, software engineering, and exploring new technologies.
 
-- 🌱 I’m currently learning and expanding my skills in **React, Next.JS TypeScript, Tailwind CSS**.
+- 🌱 I’m currently learning **React, Next.JS TypeScript, Tailwind CSS**.
 - 💼 I'm open to internship opportunities to apply and enhance my skills in a professional environment.
-- 👀 I’m interested in collaborating on open-source projects and building exciting web applications.
-- 🎓 I'm a second-year IT student in higher education.
-
+- 📫 How to reach me **yonideserbaix@gmail.com**
+- 👨‍💻 All of my projects are available at **https://yoni-deserbaix.github.io/Portfolio/**
+- ⚡ Fun fact **digital creation, sport, videogame**
 ### Contact me
 - 📧 Email: yonideserbaix@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoni-deserbaix/)
@@ -51,13 +51,13 @@
 - Current IT Student in higher education.
 - Internship/Work Experience at [Kub Systèmes](https://www.kub-systemes.fr/) <img src="https://www.kubsystemes.fr/wp-content/uploads/2016/12/favicon.png" alt="favicon" width="15" height="15">
 
-<h3> Languages  </h3> 
+<h3>Languages</h3> 
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/800px-Flag_of_France.png"  width="45" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png"  width="45" height="35"/>
 </div>
-
+  <img height="20" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -65,4 +65,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoni-Deserbaix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Yoni-Deserbaix&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+  <img height="20" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
