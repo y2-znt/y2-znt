@@ -9,12 +9,16 @@
 <p align="center">
 </p>I'm an enthusiastic IT student passionate about leveraging technology to build innovative solutions. My interests lie in web development, software engineering, and exploring new technologies.
 
-- 🌱 I’m currently learning **React, Next.JS TypeScript, Tailwind CSS**.
-- 💼 I'm open to internship opportunities to apply and enhance my skills in a professional environment.
+-  🌱 I’m currently learning **React, Next.JS TypeScript, Tailwind CSS**.
+  
+- 👨‍💻 All of my infos are available at **https://yoni-deserbaix.github.io/Portfolio/**
+  
 - 📝 I regularly write articles on **https://yoni-deserbaix-my-blog.vercel.app**
+
 - 📫 How to reach me **yonideserbaix@gmail.com**
-- 👨‍💻 All of my projects are available at **https://yoni-deserbaix.github.io/Portfolio/**
+  
 - ⚡ Fun fact **digital creation, sport, videogame**
+  
 ### Contact me
 - 📧 Email: yonideserbaix@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoni-deserbaix/)
