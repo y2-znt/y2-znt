@@ -11,6 +11,7 @@
 
 - 🌱 I’m currently learning **React, Next.JS TypeScript, Tailwind CSS**.
 - 💼 I'm open to internship opportunities to apply and enhance my skills in a professional environment.
+- 📝 I regularly write articles on **https://yoni-deserbaix-my-blog.vercel.app**
 - 📫 How to reach me **yonideserbaix@gmail.com**
 - 👨‍💻 All of my projects are available at **https://yoni-deserbaix.github.io/Portfolio/**
 - ⚡ Fun fact **digital creation, sport, videogame**
