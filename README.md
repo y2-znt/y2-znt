@@ -6,9 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;javascript+learning;code+for+life">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
-<p align="center">
-</p>I'm an enthusiastic IT student passionate about leveraging technology to build innovative solutions. My interests lie in web development, software engineering, and exploring new technologies.
-
 -  🌱 I’m currently learning **React, Next.JS TypeScript, Tailwind CSS**.
   
 - 👨‍💻 All of my infos are available at **https://yoni-deserbaix.github.io/Portfolio/**
