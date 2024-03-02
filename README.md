@@ -10,7 +10,7 @@
   
 - 👨‍💻 All of my infos are available at **https://yoni-deserbaix.github.io/Portfolio/**
   
-- 📝 I regularly write articles on **https://yoni-deserbaix-my-blog.vercel.app**
+- 📝 I regularly write articles in French on **https://yoni-deserbaix-my-blog.vercel.app**
 
 - 📫 How to reach me **yonideserbaix@gmail.com**
   
