@@ -22,7 +22,7 @@
 
 <h3> Recent Projects 🛠️</h3>
 
-- [Portfolio V2 📄](https://github.com/Yoni-Deserbaix/Portfolio-V2)
+- [Portfolio V2 🌟](https://github.com/Yoni-Deserbaix/Portfolio-V2)
 - [MyBlog 📄](https://github.com/Yoni-Deserbaix/MyBlog)
 - [GTA VI Landing page 🦩](https://github.com/Yoni-Deserbaix/GTA-VI-Landing-Page)
 
