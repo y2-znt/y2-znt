@@ -22,9 +22,9 @@
 
 <h3> Recent Projects 🛠️</h3>
 
-- [FOODLAND 🍔](https://github.com/Yoni-Deserbaix/FOODLAND)
+- [Portfolio V2 📄](https://github.com/Yoni-Deserbaix/Portfolio-V2)
+- [MyBlog 📄](https://github.com/Yoni-Deserbaix/MyBlog)
 - [GTA VI Landing page 🦩](https://github.com/Yoni-Deserbaix/GTA-VI-Landing-Page)
-- [Shooting Game JS 🧟](https://github.com/Yoni-Deserbaix/Shooting-Game-JS)
 
 <h3>Languages and Tools 🌟 </h3>
 
