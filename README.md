@@ -8,7 +8,7 @@
 
 -  🌱 I’m currently learning **React, Next.JS TypeScript, Tailwind CSS**.
   
-- 👨‍💻 All of my infos are available at **https://yoni-deserbaix.github.io/Portfolio/**
+- 👨‍💻 All of my infos are available at **https://yoni-deserbaix-potfolio.vercel.app/**
   
 - 📝 I regularly write articles in French on **https://yoni-deserbaix-my-blog.vercel.app**
 
