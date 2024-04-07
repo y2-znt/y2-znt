@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=5DBEFF&center=true&vCenter=true&lines=Frontend+Developper;TypeScript+learning;code+for+life">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
--  🌱 I’m currently learning **React, Next.JS TypeScript, Tailwind CSS**.
+-  🌱 I’m currently learning **React, Next.JS, TypeScript**.
   
 - 👨‍💻 All of my infos are available at **https://yoni-deserbaix-potfolio.vercel.app/**
   
