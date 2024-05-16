@@ -53,12 +53,7 @@
 - Current IT Student in higher education.
 - Internship/Work Experience at [Kub Systèmes](https://www.kub-systemes.fr/) <img src="https://www.kubsystemes.fr/wp-content/uploads/2016/12/favicon.png" alt="favicon" width="15" height="15">
 
-<h3>Languages</h3> 
 
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/800px-Flag_of_France.png"  width="45" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png"  width="45" height="35"/>
-</div>
   <img height="20" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
