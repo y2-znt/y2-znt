@@ -22,8 +22,8 @@
 
 <h3> Recent Projects 🛠️</h3>
 
+- [Vaultflow](https://github.com/Yoni-Deserbaix/Spikes-Challenge-SaaS)
 - [LEGO Shop 🧩](https://github.com/Yoni-Deserbaix/LEGO-Shop)
-- [Portfolio🌟](https://github.com/Yoni-Deserbaix/Portfolio)
 
 <h3>Languages and Tools 🌟 </h3>
 
