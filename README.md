@@ -8,7 +8,7 @@
 
 -  🌱 I’m currently learning **Next.js, React Native**.
   
-- 👨‍💻 All of my infos are available at **https://yoni-deserbaix-potfolio.vercel.app**
+- 👨‍💻 All of my infos are available at **yoni-deserbaix-portfolio.vercel.app**
   
 - 📝 I regularly write articles in French on **https://yoni-deserbaix-my-blog.vercel.app**
 
