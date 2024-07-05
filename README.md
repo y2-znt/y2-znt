@@ -22,8 +22,8 @@
 
 <h3> Recent Projects 🛠️</h3>
 
+- [Aora 💫](https://github.com/Yoni-Deserbaix/Aora)
 - [LEGO Shop 🧩](https://github.com/Yoni-Deserbaix/LEGO-Shop)
-- [Vaultflow](https://github.com/Yoni-Deserbaix/Spikes-Challenge-SaaS)
 
 <h3>Languages and Tools 🌟 </h3>
 
