@@ -6,12 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=5DBEFF&center=true&vCenter=true&lines=Frontend+Developper;React+<3;code+for+life">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
--  🌱 I’m currently learning **Next.js, React Native**.
+-  🌱 I’m currently learning **React Native**.
   
 - 👨‍💻 All of my infos are available at **https://yoni-deserbaix-portfolio.vercel.app**
   
-- 📝 I regularly write articles in French on **https://yoni-deserbaix-my-blog.vercel.app**
-
 - 📫 How to reach me **yonideserbaix@gmail.com**
   
 - ⚡ Fun fact **digital creation, sport, videogame**
@@ -20,10 +18,10 @@
 - 📧 Email: yonideserbaix@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoni-deserbaix/)
 
-<h3> Recent Projects 🛠️</h3>
+<h3> Recent Projects </h3>
 
+- [Kronix ✨](https://github.com/Yoni-Deserbaix/Kronix)
 - [Aora 💫](https://github.com/Yoni-Deserbaix/Aora)
-- [LEGO Shop 🧩](https://github.com/Yoni-Deserbaix/LEGO-Shop)
 
 <h3>Languages and Tools 🌟 </h3>
 
@@ -40,12 +38,7 @@
  
 </div>
 
-###
 
-<h3>Education & Experience 💼</h3> 
-
-- Current IT Student in higher education.
-- Internship/Work Experience at [Kub Systèmes](https://www.kub-systemes.fr/) <img src="https://www.kubsystemes.fr/wp-content/uploads/2016/12/favicon.png" alt="favicon" width="15" height="15">
 
 
   <img height="20" />
