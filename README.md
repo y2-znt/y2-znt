@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-<h1 align="center">Hi 👋, I'm Yoni Deserbaix</h1>
+<h1 align="center">Hi 👋, I'm y2</h1>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=5DBEFF&center=true&vCenter=true&lines=Frontend+Developper;React+<3;code+for+life">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
