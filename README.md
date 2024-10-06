@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <h1 align="center">Hi 👋, I'm y2</h1>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=5DBEFF&center=true&vCenter=true&lines=Frontend+Developper;React+<3;code+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=5DBEFF&center=true&vCenter=true&lines=Frontend+Developer;React+<3;in my winter arc">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
 -  🌱 I’m currently learning **React Native**.
