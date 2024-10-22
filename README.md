@@ -14,10 +14,6 @@
   
 - ⚡ Fun fact **digital creation, sport, videogame**
   
-### Contact me
-- 📧 Email: yonideserbaix@gmail.com
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoni-deserbaix/)
-
 <h3> Recent Projects </h3>
 
 - [Kronix ✨](https://github.com/Yoni-Deserbaix/Kronix)
