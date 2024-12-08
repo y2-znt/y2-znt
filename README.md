@@ -16,8 +16,8 @@
   
 <h3> Recent Projects </h3>
 
+- [PERN CRUD Boilerplate](https://github.com/Yoni-Deserbaix/PERN-CRUD-Boilerplate)
 - [Kronix ✨](https://github.com/Yoni-Deserbaix/Kronix)
-- [Aora 💫](https://github.com/Yoni-Deserbaix/Aora)
 
 <h3>Languages and Tools 🌟 </h3>
 
