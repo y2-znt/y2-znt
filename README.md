@@ -1,12 +1,16 @@
-<img src="https://camo.githubusercontent.com/013320969990907ff06366fe7ac12ce552da35aa66a69686ef56161d08a46ee5/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861586777625842314d474e78646e427a614852694e545a35595764746558703565585270633364324d6e4a6a64545179626e59314d435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4b4b49383355314246427570667962616b642f67697068792e676966" width="100%" />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <h1 align="center">Hi 👋, I'm y2</h1>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=5DBEFF&center=true&vCenter=true&lines=Frontend+Developer;React+<3;in+my+winter+arc">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=5DBEFF&center=true&vCenter=true&lines=Frontend+Developer;React+<3;learning+Node.js">
+    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
--  🌱 I’m currently learning **React Native**.
+
+<img src="https://camo.githubusercontent.com/013320969990907ff06366fe7ac12ce552da35aa66a69686ef56161d08a46ee5/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861586777625842314d474e78646e427a614852694e545a35595764746558703565585270633364324d6e4a6a64545179626e59314d435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4b4b49383355314246427570667962616b642f67697068792e676966" width="70%" />
+
+-  🌱 I’m currently learning **Node.js**.
   
 - 👨‍💻 All of my infos are available at **https://yoni-deserbaix-portfolio.vercel.app**
   
@@ -16,9 +20,8 @@
   
 <h3> Recent Projects </h3>
 
-- [PERN CRUD Boilerplate](https://github.com/Yoni-Deserbaix/PERN-CRUD-Boilerplate)
-- [Kronix ✨](https://github.com/Yoni-Deserbaix/Kronix)
-
+- [LeetGrindBot](https://github.com/LeetGrindBot)
+- [PERN Boilerplate](https://github.com/y2-znt/PERN-Boilerplate)
 <h3>Languages and Tools 🌟 </h3>
 
 <div align="left">
@@ -45,13 +48,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoni-Deserbaix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Yoni-Deserbaix&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-<div align="center">
-    
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
