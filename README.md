@@ -10,13 +10,10 @@
 
 <img src="https://camo.githubusercontent.com/013320969990907ff06366fe7ac12ce552da35aa66a69686ef56161d08a46ee5/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861586777625842314d474e78646e427a614852694e545a35595764746558703565585270633364324d6e4a6a64545179626e59314d435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4b4b49383355314246427570667962616b642f67697068792e676966" width="70%" />
 
--  🌱 I’m currently learning **Node.js**.
-  
-- 👨‍💻 All of my infos are available at **https://yoni-deserbaix-portfolio.vercel.app**
-  
-- 📫 How to reach me **yonideserbaix@gmail.com**
-  
-- ⚡ Fun fact **digital creation, sport, videogame**
+
+- 🌱 I’m currently learning **Node.js**  
+- 🥷 Always building, learning, improving  
+- ⚡ Fun fact: **digital creation, sport, videogame**
   
 <h3> Recent Projects </h3>
 
