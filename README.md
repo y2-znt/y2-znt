@@ -1,7 +1,8 @@
 > Always grinding — sometimes solo, sometimes with the crew.  
-> _I code daily — shipping tools, bots, and ideas that grow in silence. Not for the streak, but for the vision._
+> _Each project helps me grow, sharpen my thinking, and stay grounded in what i build._
 
-> _Thanks for watching from the shadows — it means a lot!_
+> _Appreciate you following along._
+
 
 [<img align="left" width="390" alt="🦇" src="https://raw.githubusercontent.com/y2-znt/metrics/master/metrics.classic.svg">](#)
 
